@@ -1,0 +1,16 @@
+
+  Use case 1
+    - Demonstrate fetch, pull.
+
+  Use case 2
+    - Add a change, use diff to compare changes, add and push.
+
+  Use case 3
+    - Use log to show history, reset to previous commit and make change on same line to cause conflict.
+
+  Use case 4
+    - Use rebase to resolve conflict.
+    - Repeat using pull.
+
+  Use case 5
+    - Stash, alias etc.
