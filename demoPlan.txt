@@ -6,7 +6,8 @@
     - Add a change, use diff to compare changes, add and push.
 
   Use case 3
-    - Use log to show history, reset to previous commit and make change on same line to cause conflict.
+    - Use log to show history, reset to previous commit.
+    - Create conflict for file2.
 
   Use case 4
     - Use rebase to resolve conflict.
